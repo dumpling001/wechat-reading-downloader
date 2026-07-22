@@ -247,3 +247,9 @@ output_articles/
 ## License
 
 MIT License
+
+---
+
+## Demo
+
+![自动打开浏览器和下载过程](images/browser-demo-terminal-download.png)
